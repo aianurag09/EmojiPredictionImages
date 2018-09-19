@@ -1,11 +1,11 @@
 # Emoji Prediction
 
-Keras implementation of the paper **Are emojis predictable in the context of the Image?**.
+Keras implementation of the paper **Which Image Suits best for my Image?**.
 
-**Are emojis predictable in the context of the Image?**\
-[Anurag Illendula*](https://github.com/aianurag09), [KV Manohar*](https://kvmanohar22.github.io)\
-Department of Mathematics, IIT Kharagpur\
-In ICWSM-2018 Workshop on Emoji Understanding and Applications in Social Media
+**Which Image Suits best for my Image?**\
+[Anurag Illendula*](https://github.com/aianurag09), [KV Manohar*](https://kvmanohar22.github.io), Manish Reddy Yedulla\
+*Department of Mathematics, IIT Kharagpur and Department of Engineering Sciences, IIT Hyderabad\
+At 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI '18)
 
 
 
